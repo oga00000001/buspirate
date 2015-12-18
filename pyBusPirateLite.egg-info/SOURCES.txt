@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+pyBusPirateLite/1wire.py
+pyBusPirateLite/BitBang.py
+pyBusPirateLite/I2C.py
+pyBusPirateLite/I2Chigh.py
+pyBusPirateLite/RAW_WIRE.py
+pyBusPirateLite/SPI.py
+pyBusPirateLite/UART.py
+pyBusPirateLite/__init__.py
+pyBusPirateLite/rawwire.py
+pyBusPirateLite.egg-info/PKG-INFO
+pyBusPirateLite.egg-info/SOURCES.txt
+pyBusPirateLite.egg-info/dependency_links.txt
+pyBusPirateLite.egg-info/top_level.txt
